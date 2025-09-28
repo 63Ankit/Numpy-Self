@@ -1,10 +1,6 @@
 '''
-import numpy as np
-
-a = np.array([10, 20, 30])
-print("Array:", a)
-print("Mean:", np.mean(a))
-print("Standard Deviation:", np.std(a))
+[1 2 3 4 5]
+<class 'numpy.ndarray'>
 '''
 import numpy as np
 

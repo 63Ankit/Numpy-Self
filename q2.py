@@ -1,3 +1,19 @@
+'''
+Zeros:
+ [[0. 0. 0. 0.]
+ [0. 0. 0. 0.]
+ [0. 0. 0. 0.]]
+Ones:
+ [[1. 1. 1. 1. 1.]
+ [1. 1. 1. 1. 1.]]
+Range: [0 2 4 6 8]
+Linspace: [0.   0.25 0.5  0.75 1.  ]
+Identity Matrix:
+ [[1. 0. 0. 0.]
+ [0. 1. 0. 0.]
+ [0. 0. 1. 0.]
+ [0. 0. 0. 1.]]
+'''
 import numpy as np
 # Array of zeros
 zeros = np.zeros((3, 4))   # 3 rows, 4 columns
